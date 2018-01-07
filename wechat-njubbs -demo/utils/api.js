@@ -1,5 +1,5 @@
 // 域名地址
-var HOST = '';
+var HOST = 'http://127.0.0.1:9080/bbs';
 //讨论区
 var section = HOST + '';
 //帖子详情
